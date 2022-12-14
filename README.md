@@ -1,4 +1,4 @@
-<img align='right' src='https://raw.githubusercontent.com/zhang874010534/tuchuan/main/Readme/heizi.png?raw=true' width='410px'>
+<img align='right' src='https://raw.githubusercontent.com/zhang874010534/tuchuan/main/Readme/heizi.png?raw=true'>
 
 ## ❤️‍🔥Hey! This is Zhang.
 
